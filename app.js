@@ -44,7 +44,7 @@ const selectItem = (event, img) => {
   if (item === -1) {
     sliders.push(img);
   } else {
-    alert('Hey, Already added !')
+    alert('rs')
   }
 }
 var timer
